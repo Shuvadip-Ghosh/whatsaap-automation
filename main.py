@@ -2,8 +2,8 @@ import os
 
 from selenium import webdriver
 import time
-path_to_chrome_webdriver = "F:/Python Programs/chromedriver.exe"
-present_path ="F:\\Python Programs\\whatsaap-automation"
+path_to_chrome_webdriver = "D:/Python Programs/chromedriver.exe"
+present_path ="D:\\Python Programs\\whatsaap-automation"
 chrome_profile_path = f"user-data-dir={present_path}\\data"
 options = webdriver.ChromeOptions()
 options.add_argument(chrome_profile_path)
