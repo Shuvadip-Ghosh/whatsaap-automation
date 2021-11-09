@@ -1,7 +1,0 @@
-[9952:10204:1012/102405.083:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
-[9952:10204:1012/102405.083:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
-[9952:10204:1012/102405.083:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
-[9952:12444:1012/102405.086:ERROR:device_event_log_impl.cc(214)] [10:24:05.086] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
-[9952:10204:1012/102405.097:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
-[9952:12444:1012/102405.106:ERROR:device_event_log_impl.cc(214)] [10:24:05.106] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
-[9952:12444:1012/102450.454:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
